@@ -1,3 +1,24 @@
+## [4.5.1](https://github.com/AtomLinter/linter-stylelint/compare/v4.5.0...v4.5.1) (2020-05-12)
+
+
+### Bug Fixes
+
+* **deps:** update dependency stylelint to v13.3.3 ([44f7e06](https://github.com/AtomLinter/linter-stylelint/commit/44f7e060c35f8ef91e7ae9743064bc0469a63269))
+
+# [4.5.0](https://github.com/AtomLinter/linter-stylelint/compare/v4.4.19...v4.5.0) (2020-03-09)
+
+
+### Features
+
+* add message URL for scss, csstools, color-format, scale-unlimited ([1c5b8ad](https://github.com/AtomLinter/linter-stylelint/commit/1c5b8ad506e3094d2120d59359be38013c720af5))
+
+## [4.4.19](https://github.com/AtomLinter/linter-stylelint/compare/v4.4.18...v4.4.19) (2020-03-09)
+
+
+### Bug Fixes
+
+* **deps:** update dependency stylelint to v13.2.1 ([5e0c16b](https://github.com/AtomLinter/linter-stylelint/commit/5e0c16b91963d41a06bc44fae9baccfbd6765074))
+
 ## [4.4.18](https://github.com/AtomLinter/linter-stylelint/compare/v4.4.17...v4.4.18) (2020-02-14)
 
 
